@@ -13,6 +13,16 @@ cd pyndl
 python setup.py install
 ```
 
+# Test data
+On ShARC, In the folder `/shared/ooominds1/Shared/rse_pyndl_debug` we have two smaller data sets
+
+* 100K_tri.gz - The first 100 thousand lines of the full data set
+* 1M_tri.gz - The first 1 million lines of the full data set
+
+
+
+
+
 
 
 
