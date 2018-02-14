@@ -14,10 +14,17 @@ python setup.py install
 ```
 
 # Test data
+Full production run 
+
+* test_train_mike.sh - ShARC submission script for full production run
+* test_train.py - the Python script called by `test_train_mike.sh`
+
 On ShARC, In the folder `/shared/ooominds1/Shared/rse_pyndl_debug` we have two smaller data sets
 
-* 100K_tri.gz - The first 100 thousand lines of the full data set
+* 100K_tri.gz - The first 100 thousand lines of the full data set.  This completes fairly quickly on a desktop
 * 1M_tri.gz - The first 1 million lines of the full data set
+
+
 
 
 
